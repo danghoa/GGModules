@@ -1,6 +1,8 @@
 # Green Global Reusable Resources
-## GGModules
 
+[![Build Status](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://github.com/danghoa/GGModules)
+[![Platform](https://img.shields.io/cocoapods/p/Alamofire.svg?style=flat)](https://github.com/danghoa/GGModules)
+> This is GGModules
 ### Requirements
 * Swift3
 * iOS 8.0+
